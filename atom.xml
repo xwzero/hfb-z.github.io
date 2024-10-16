@@ -3,11 +3,11 @@
   <title>Hexo-b-z</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://xwzero.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://xwzero.github.io/"/>
   <updated>2024-10-16T03:08:29.923Z</updated>
-  <id>http://example.com/</id>
+  <id>https://xwzero.github.io/</id>
   
   <author>
     <name>Z S</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>(novel) 0</title>
-    <link href="http://example.com/posts/b174.html"/>
-    <id>http://example.com/posts/b174.html</id>
+    <link href="https://xwzero.github.io/posts/b174.html"/>
+    <id>https://xwzero.github.io/posts/b174.html</id>
     <published>2024-10-15T02:41:11.000Z</published>
     <updated>2024-10-16T03:08:29.923Z</updated>
     
@@ -39,8 +39,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/3eeb.html"/>
-    <id>http://example.com/posts/3eeb.html</id>
+    <link href="https://xwzero.github.io/posts/3eeb.html"/>
+    <id>https://xwzero.github.io/posts/3eeb.html</id>
     <published>2024-10-14T08:44:45.959Z</published>
     <updated>2024-10-14T07:39:48.831Z</updated>
     
@@ -59,8 +59,8 @@
   
   <entry>
     <title>(教程) markdown用法</title>
-    <link href="http://example.com/posts/607b.html"/>
-    <id>http://example.com/posts/607b.html</id>
+    <link href="https://xwzero.github.io/posts/607b.html"/>
+    <id>https://xwzero.github.io/posts/607b.html</id>
     <published>2024-10-11T03:23:01.000Z</published>
     <updated>2024-10-14T08:23:41.998Z</updated>
     
@@ -75,12 +75,12 @@
     
     
     
-    <category term="教程" scheme="http://example.com/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://xwzero.github.io/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="教程" scheme="http://example.com/tags/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://xwzero.github.io/tags/%E6%95%99%E7%A8%8B/"/>
     
-    <category term="markdown" scheme="http://example.com/tags/markdown/"/>
+    <category term="markdown" scheme="https://xwzero.github.io/tags/markdown/"/>
     
   </entry>
   
